@@ -1,6 +1,16 @@
 # tsv
 Tab-Separated Value library for Python
 
+[![Documentation Status](https://readthedocs.org/projects/tsv/badge/?version=latest)](http://tsv.readthedocs.io/en/latest/?badge=latest)
+
+## Installation
+
+```
+pip install tsv
+```
+
+## Usage
+
 TSV files look like this:
 
 ```
