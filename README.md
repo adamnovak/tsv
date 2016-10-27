@@ -1,7 +1,7 @@
 # tsv
 Tab-Separated Value library for Python
 
-TSV file slook like this:
+TSV files look like this:
 
 ```
 # This is an example TSV file
