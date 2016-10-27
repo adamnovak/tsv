@@ -8,6 +8,9 @@ obtain lists of the values from each non-comment line in the stream.
 
 TSV is most useful as the basis for other, more tightly specified file formats.
 
+Examples of how to use this module are available here:
+https://github.com/adamnovak/tsv/blob/master/README.md
+
 """
 
 class TsvWriter(object):
