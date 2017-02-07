@@ -30,8 +30,8 @@ import tsv
 reader = tsv.TsvReader(open("file.tsv"))
 for parts in reader:
   # Here parts is a list of strings, one per tab-separated column.
-	# Make sure you handle not having enough fields, or not being able to
-	# parse numbers where you expect them.
+  # Make sure you handle not having enough fields, or not being able to
+  # parse numbers where you expect them.
   print("Record with {} fields: {}".format(len(parts), parts))
 ```
 
