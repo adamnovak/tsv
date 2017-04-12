@@ -15,7 +15,7 @@ TSV files look like this:
 
 ```
 # This is an example TSV file
-# It lists whether verious genes are good or not.
+# It lists whether various genes are good or not.
 # Sometimes there are column headers that look like comments; we just ignore those.
 # GENE	STATUS	POINTS	DATA
 BRCA1	GOOD	37
