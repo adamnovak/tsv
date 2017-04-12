@@ -40,7 +40,7 @@ To write a TSV file, use a `TsvWriter`:
 import tsv
 writer = tsv.TsvWriter(open("file.tsv", "w"))
 
-writer.comment("This is a comment
+writer.comment("This is a comment")
 writer.line("Column 1", "Column 2", 12345)
 writer.list_line(["Column 1", "Column 2"] + list(range(10)))
 writer.close()
